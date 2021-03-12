@@ -1,2 +1,2 @@
-# contactmanagercontactmanager
-code for conatact manage
+# contactmanager
+code for contact manage
